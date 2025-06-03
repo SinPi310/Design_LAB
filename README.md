@@ -1,4 +1,4 @@
-Nazwa Twojego Projektu
+#Nazwa Twojego Projektu
 
 Krótki opis projektu, np.:
 **ProGPT** to aplikacja wykorzystująca sztuczną inteligencję do [opisu działania programu].
@@ -21,7 +21,7 @@ Pełny opis projektu znajdziesz w pliku PDF:
 
 ## Film przedstawiający działanie
 
-Zobacz, jak działa program:
+Zobacz, jak działa układ:
 [🎥 Zobacz film na YouTube](link-do-filmu)
 
 ---
