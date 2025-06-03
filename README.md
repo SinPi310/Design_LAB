@@ -1,4 +1,4 @@
-# Nazwa Twojego Projektu
+Nazwa Twojego Projektu
 
 Krótki opis projektu, np.:
 **ProGPT** to aplikacja wykorzystująca sztuczną inteligencję do [opisu działania programu].
