@@ -1,32 +1,32 @@
 # WEATHER STATION 🌦️
 
-**Krótki opis projektu:**  
-Stacja pogodowa oparta na urządzeniu Espruino, umożliwiająca monitorowanie i rejestrowanie warunków atmosferycznych w czasie rzeczywistym. Projekt łączy nowoczesne technologie z prostotą użytkowania.
+**Project Overview:**  
+A weather station based on the Espruino device, enabling real-time monitoring and recording of atmospheric conditions. The project combines modern technologies with simplicity of use.
 
 ---
 
-## Funkcjonalności 🌟
+## Features 🌟
 
-- **Pomiar temperatury** – Dokładne odczyty temperatury z wykorzystaniem czujników.  
-- **Pomiar wilgotności** – Rejestracja poziomu wilgotności w otoczeniu.  
-- **Wyświetlanie danych na ekranie** – Wszystkie dane są wizualizowane na wbudowanym ekranie urządzenia.  
-- **Przesyłanie danych do chmury** – Możliwość przesyłania danych do serwera w celu analizy.  
-
----
-
-## Dokumentacja 📖
-
-Pełny opis projektu, schematy, kod oraz szczegóły techniczne znajdziesz w [Dokumentacji PDF](DESIGN_LAB_REPORT.pdf).
+- **Temperature Measurement** – Accurate temperature readings using sensors.  
+- **Humidity Measurement** – Recording the humidity levels in the environment.  
+- **Data Display on Screen** – All data is visualized on the device's built-in screen.  
+- **Cloud Data Transmission** – Ability to send data to a server for analysis.  
 
 ---
 
-## Film przedstawiający działanie 🎥
+## Documentation 📖
 
-Zobacz, jak działa układ w praktyce: [🎥 Zobacz film na YouTube](https://youtu.be/7b1KZdM2IWs).
+Find the complete project description, schematics, code, and technical details in the [PDF Documentation](DESIGN_LAB_REPORT.pdf).
 
 ---
 
-## Autorzy ✨
+## Demonstration Video 🎥
 
-Projekt wykonany przez **Wojciech Hajduk**.  
-Jeśli masz pytania lub propozycje dotyczące projektu, zapraszam do kontaktu! 😊
+See how the system works in practice: [🎥 Watch the video on YouTube](https://youtu.be/7b1KZdM2IWs).
+
+---
+
+## Authors ✨
+
+Project created by **Wojciech Hajduk**.  
+If you have any questions or suggestions regarding the project, feel free to reach out! 😊
