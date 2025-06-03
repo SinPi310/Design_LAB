@@ -22,7 +22,7 @@ Find the complete project description, schematics, code, and technical details i
 
 ## Demonstration Video 🎥
 
-See how the system works in practice: [🎥 Watch the video on YouTube](https://youtu.be/7b1KZdM2IWs).
+See how the system works in practice: [Watch the demo on YouTube](https://youtu.be/7b1KZdM2IWs).
 
 ---
 
