@@ -15,7 +15,7 @@ Krótki opis projektu, np.:
 ## Dokumentacja
 
 Pełny opis projektu znajdziesz w pliku PDF:
-[📄 Dokumentacja PDF](link-do-pliku-pdf)
+[📄 Dokumentacja PDF](DESIGN_LAB_REPORT.pdf)
 
 ---
 
