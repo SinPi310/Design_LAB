@@ -22,7 +22,7 @@ Pełny opis projektu znajdziesz w pliku PDF:
 ## Film przedstawiający działanie
 
 Zobacz, jak działa układ:
-[🎥 Zobacz film na YouTube](link-do-filmu)
+[🎥 Zobacz film na YouTube](https://youtu.be/7b1KZdM2IWs)
 
 ---
 
