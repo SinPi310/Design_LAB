@@ -16,7 +16,7 @@ A weather station based on the Espruino device, enabling real-time monitoring an
 
 ## Documentation 📖
 
-Find the complete project description, schematics, code, and technical details in the [PDF Documentation](DESIGN_LAB_REPORT.pdf).
+Find the complete project description, schematics, code, and technical details in the [PDF Documentation](TechnicalDocumentation.pdf).
 
 ---
 
