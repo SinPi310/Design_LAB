@@ -1,4 +1,4 @@
-# Nazwa Twojego Projektu
+# WEATHER STATION
 
 Krótki opis projektu, np.:
 **ProGPT** to aplikacja wykorzystująca sztuczną inteligencję do [opisu działania programu].
@@ -26,14 +26,6 @@ Zobacz, jak działa układ:
 
 ---
 
-## Jak uruchomić projekt?
-
-1. Krok 1: Pobierz projekt z GitHub.
-2. Krok 2: Zainstaluj wymagane zależności.
-3. Krok 3: Uruchom aplikację.
-
----
-
 ## Autorzy
 
-- **Twoje Imię i Nazwisko** - Główny autor
+- **Wojciech Hajduk**
