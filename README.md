@@ -28,5 +28,5 @@ See how the system works in practice: [🎥 Watch the video on YouTube](https://
 
 ## Authors ✨
 
-Project created by **Wojciech Hajduk**.  
+Project created by **SinPi310**.  
 If you have any questions or suggestions regarding the project, feel free to reach out! 😊
